@@ -9,7 +9,7 @@
 * OptionalPlugins: -
 * Categories: Admin
 * Plugin Access: Commands, Data Saving
-* WebSite: https://github.com/alejandroliu/pocketmine-plugins/tree/master/ChatScribe
+* WebSite: https://github.com/FienixEC/ChatScribeIC
 
 ## Overview
 
