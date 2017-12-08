@@ -6,7 +6,7 @@ load: POSTWORLD
 website: https://github.com/alejandroliu/pocketmine-plugins/tree/master/ChatScribe
 
 description: Logs chats and commands
-author: aliuly
+author: aliuly: REVIVED by FienixIC
 
 commands:
   log:
