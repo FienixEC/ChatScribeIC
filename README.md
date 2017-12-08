@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alejandroliu/pocketmine-plugins/master/Media/ChatScribe-icon.png" style="width:64px;height:64px" width="64" height="64"/>
+<img src="http://i65.tinypic.com/2char78.jpg" style="width:64px;height:64px" width="64" height="64"/>
 
 # ChatScribe
 
