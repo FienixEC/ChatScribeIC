@@ -4,7 +4,7 @@
 
 * Summary: Logs chats and commands
 * Dependency Plugins: n/a
-* PocketMine-MP version: 1.4 (API:1.10.0)
+* PocketMine-MP 1.7dev-477 (3.0.0-ALPHA10)
 * DependencyPlugins: -
 * OptionalPlugins: -
 * Categories: Admin
