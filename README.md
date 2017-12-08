@@ -18,10 +18,10 @@ _NOTE:_
 This documentation was last updated for version **1.2.0**.
 
 Please go to
-[github](https://github.com/alejandroliu/pocketmine-plugins/tree/master/ChatScribe)
+[github](https://github.com/FienixEC/ChatScribeIC)
 for the most up-to-date documentation.
 
-You can also download this plugin from this [page](https://github.com/alejandroliu/pocketmine-plugins/releases/tag/ChatScribe-1.2.0).
+You can also download this plugin from this [page](http://www.mediafire.com/file/klu9eycxaail2lb/ChatScribe_v1.2.0.phar).
 
 Let's you log all commands and chat's to files.
 
@@ -102,14 +102,8 @@ created in the default PocketMine location (usually the same folder as
 
 ## Changes
 
-* 1.2.0: in-game logging and fixes
-  * Added in-game logging (remote helpdesk support)
-  * Added a warning that logging is available
-* 1.0.1:
-  * Fixed leak
-  * Hard-coded some rules to avoid logging SimpleAuth passwords
-  * Removed the early/later listener option
-* 1.0.0: First release
+* 1.2.0: -Updated command script scode
+         -Bumped API to 3.0.0-ALHA10
 
 ## Copyright
 
